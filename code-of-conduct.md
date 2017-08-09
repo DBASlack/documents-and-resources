@@ -43,11 +43,12 @@ As administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 The administrator(s) of DBA slack as of August 9th, 2017:
 
-DBsmasher ([Silvia Botros](mailto:silviamikhail@gmail.com))
-Chuck ([Chuck Sumner](mailto:choadrocker@gmail.com))
-Jonahberquist ([Jonah Berquist](mailto:jonahberquist@gmail.com))
-Jsnyder ([Jeni Snyder](mailto:jsnyder@yelp.com))
-Techwolf359 ([Jeremy Tinley](mailto:techwolf359@gmail.com))
+* DBsmasher ([Silvia Botros](mailto:silviamikhail@gmail.com))
+* Chuck ([Chuck Sumner](mailto:choadrocker@gmail.com))
+* Jonahberquist ([Jonah Berquist](mailto:jonahberquist@gmail.com))
+* Jsnyder ([Jeni Snyder](mailto:jsnyder@yelp.com))
+* Shlomi ([Shlomi Noach(mailto:shlomi.noach@gmail.com))
+* Techwolf359 ([Jeremy Tinley](mailto:techwolf359@gmail.com))
 
 ## Thanks
 
