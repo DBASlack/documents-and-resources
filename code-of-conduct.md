@@ -47,7 +47,7 @@ The administrator(s) of DBA slack can be seen in [the slack team's page](https:/
 
 Thank you to every DBA Slack community member for helping to making our home the respectful and inclusive community that it is.
 
-Special thanks to [Chicago Camps](http://chicagocamps.org/code-of-conduct/), YxYY ([Yes and Yes Yes](http://www.yesandyesyes.com/)) and Hillary Hartley for sharing their Code of Conduct with us. We consider them as examples to look up to and emulate. We also thank the YxYY community member, [Tantek Çelik](http://tantek.com/), and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
+Forked from [https://github.com/randsleadershipslack/documents-and-resources](https://github.com/randsleadershipslack/documents-and-resources)
 
 V1 of this Code of Conduct was published on June 7th, 2016.
 
