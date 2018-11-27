@@ -39,6 +39,23 @@ If the administrators determine that a human is behaving disrespectfully, the ad
 
 As administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. We can’t foresee every situation, and thus if in the administrator's judgment the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
+## Profile
+
+We ask that all members identify themselves in their Slack profile with:
+
+- First name
+- Last name
+- Role or Title
+- Company name
+- A non-default avatar
+
+examples:
+- Jane Doe, DBA @ PastaRosa
+- John Doe, Infrastructure Engineer @ MoccaChino
+- Jess Doe, Database team manager @ OliveOil
+
+Please consult the administrators if there is a reason to anonymize any of the profile details.
+
 ## Administrators
 
 The administrator(s) of DBA slack can be seen in [the slack team's page](https://dbachat.slack.com/account/team)
