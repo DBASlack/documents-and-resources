@@ -21,13 +21,35 @@ Respectful behavior includes:
 * If you’re not sure, ask someone instead of assuming. No, really. Just ask the administrators. We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.
 * Don’t be a bystander. Role model respectful behaviour, but also help to address disrespect when you see it.
 
-## Resolve Peacefully
+## When something happens
+1. Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s).
+2. That person should immediately stop the behavior and correct the issue.
+3. If this doesn’t happen, or if you’re uncomfortable speaking up, contact admins.
+4. As soon as available, an admin will join, identify themselves, and take further action (see consequnces actions below).
 
-We believe peer to peer discussions, feedback, and corrections can help build a stronger, safer, and more welcoming community.
+When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.
 
-If you see someone behaving disrespectfully, we urge you to respectfully dissuade  them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.
+Examples of unacceptable behavior by participants include:
 
-If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed  in any way. We will listen and work to resolve the matter.
+* The use of sexualized language or imagery and unwelcome sexual attention or advances, including when simulated online. The only exception to sexual topics is channels/spaces specifically for topics of sexual identity.
+* Trolling, insulting/derogatory comments, and personal or political attacks.
+* Casual mention of slavery or indentured servitude and/or false comparisons of one’s occupation or situation to slavery. Please consider using or asking about alternate terminology when referring to such metaphors in technology.
+* Making light of/making mocking comments about trigger warnings and content warnings.
+* Public or private harassment, deliberate intimidation, or threats.
+* Publishing others’ private information, such as a physical or electronic address, without explicit permission. This includes any sort of “outing” of any aspect of someone’s identity without their consent.
+* Publishing screenshots or quotes, especially from identity channels, without all quoted users’ explicit consent.
+* Publishing or telling others that a member belongs to a particular identity channel without asking their consent first.
+* Publishing of non-harassing private communication.
+* Any of the above even when presented as “ironic” or “joking”.
+* Any attempt to present “reverse-ism” versions of the above as violations. Examples of reverse-isms are “reverse racism”, “reverse sexism”, “heterophobia”, and “cisphobia”.
+* Unsolicited explanations under the assumption that someone doesn’t already know it. Ask before you teach! Don’t assume what people’s knowledge gaps are.
+* Feigning or exaggerating surprise when someone admits to not knowing something.
+* “Well-actuallies”
+* Other conduct which could reasonably be considered inappropriate in a professional or community setting.
+
+Who watches the watchers?
+Admins and other leaders who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the community’s leadership. These may include anything from removal from the admin team to a permanent ban from the community.
+
 
 ## Apologize for Mistakes
 
