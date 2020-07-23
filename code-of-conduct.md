@@ -25,7 +25,7 @@ Respectful behavior includes:
 1. Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s).
 2. That person should immediately stop the behavior and correct the issue.
 3. If this doesn’t happen, or if you’re uncomfortable speaking up, contact admins.
-4. As soon as available, an admin will join, identify themselves, and take further action (see below), starting with a warning, then temporary deactivation, then long-term deactivation.
+4. As soon as available, an admin will join, identify themselves, and take further action (see consequnces actions below).
 
 When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.
 
